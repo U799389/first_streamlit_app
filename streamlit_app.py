@@ -10,4 +10,4 @@ streamlit.title('🥗Kale,Spinach & Rocket Smoothie')
 streamlit.title('Hard-Boiled Free-Range Egg')
 streamlit.title('🥑🍞Avocado Toast')
 
-streamlit.title('My parents New Healthy Diner')
+streamlit.header('🍌🥭Build Your Own Fruit Smoothie🥝🍇')
